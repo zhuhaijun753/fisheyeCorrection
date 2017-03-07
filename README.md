@@ -31,5 +31,7 @@ You also can include fisheyeCorrector.h in your project.Then use fisheyeCorrecto
 ##Parameters of executable file
 
 distortion table
+
 path to video file
+
 path to store some corrected frames.
