@@ -28,10 +28,18 @@ You can include tools.h. Then use correctImage and correctVideo function. Notice
 
 You also can include fisheyeCorrector.h in your project.Then use fisheyeCorrector and it's member function correctImage.
 
-##Parameters of executable file
+##Parameters of executable file for video
 
 distortion table
 
 path to video file
 
 path to store some corrected frames.
+
+##Parameters of executable file for image set
+
+distortion table
+
+image file list
+
+path to store corrected images
