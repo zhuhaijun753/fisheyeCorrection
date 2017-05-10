@@ -16,5 +16,6 @@
 
 void correctVideo(int argc, char* argv[]);
 void correctImage(int argc, char* argv[]);
+void correctImages(int argc, char* argv[]);
 
 #endif //CORRECT_TOOLS_H
